@@ -14,7 +14,7 @@ game.py : contributed by [Caterine-leung](https://www.linkedin.com/in/catherine-
 ### period of this project  
 Initiative steps and documents : July 21th 2024  
 Initial programmed date : Aug 1th 2024  
-testing and error handling : Aug 4th 2024
+testing and error handling : Aug 4th 2024  
 Finalized with new features : Aug 11th 2024  
 
 ## Features  
