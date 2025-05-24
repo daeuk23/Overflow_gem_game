@@ -30,7 +30,7 @@ Finalized with new features : Aug 11th 2024
 ## Rules  
 1. Select a board (3x4 to 5x6)  
 2. Two players can take turns putting gem in each cell  
-3. However, if each cell has more stones than the adjacent side, the rule of "overflow" changes the stone in that cell and the surrounding "neighbor".
+3. However, if each cell has more stones than the adjacent side, the rule of "overflow" changes the stone in that cell and "neighbors(adjacent cells)".  
 - Corners: Overflow at 2 gems.
 - Edges: Overflow at 3 gems.
 - Middle cells: Overflow at 4 gems.
