@@ -23,12 +23,12 @@ Finalized with new features : Aug 11th 2024
 - **Basic method** : Based on the hash table, the method of putting data on the board (the possibility of data loss x)
 
 ### Updated feature (Aug 11th 2024)  
-- **Board size changeable** : 3*4 to 5*6 freely changeable game rules accordingly  
+- **Board size changeable** : 3x4 to 5x6 freely changeable game rules accordingly  
 - **new Interface** : Appears a color-selectable interface  
 - **Reduced time complexity** : It significantly reduced the computational time for game wins and losses  
 
 ## Rules  
-1. Select a board (3*4 to 5*6)  
+1. Select a board (3x4 to 5x6)  
 2. Two players can take turns putting gem in each cell  
 3. However, if each cell has more stones than the adjacent side, the rule of "overflow" changes the stone in that cell and the surrounding "neighbor".
 - Corners: Overflow at 2 gems.
