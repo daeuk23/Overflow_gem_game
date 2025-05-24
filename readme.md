@@ -20,7 +20,7 @@ Finalized with new features : Aug 11th 2024
 ## Features  
 - **Gem game**: Provide a game UI to play games with points by placing gem on the board according to the set rules  
 - **Players and AI** : Two players will be able to watch the match on **one device** and will also have options to compete against ai  
-- **Basic method** : Based on the hash table, the method of putting data on the board (the possibility of data loss x)
+- **Basic method** : Based on the hash table, the method of putting data on the board
 
 ### Updated feature (Aug 11th 2024)  
 - **Board size changeable** : 3x4 to 5x6 freely changeable game rules accordingly  
