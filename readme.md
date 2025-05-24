@@ -36,7 +36,7 @@ Finalized with new features : Aug 11th 2024
 - Middle cells: Overflow at 4 gems.
 4. Overflow Occurrence Rules
 The corresponding gem is distributed to the adjacent side. "At this point, the color gem that was previously occupied is added. If overflow occurs again after distribution, the same thing happens again.  
-5. If there is only one color left on the board, the player of the gem wins  
+5. If there is only one color left on the board, the player owning that gem wins  
 
 ## Sequence  
 Each cell on the board must undergo continuous validation, as a single overflow can trigger changes in adjacent cells, potentially causing further overflows.  
