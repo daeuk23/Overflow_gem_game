@@ -6,8 +6,8 @@ It includes various features such as player-versus-player matches and the abilit
 ### Contributer  
 
 [DaeukKim](https://www.linkedin.com/in/daeuk-kim-68628231b/)  : Leader, develop rest of files except game.py  
-contact : Email -> a24738598@gmail.com
-[TaeheunKim](https://www.linkedin.com/in/tae-heun-kay-kim-a21021273/)  : dataInput.py, handleOverflow.py
+contact : Email -> a24738598@gmail.com  
+[TaeheunKim](https://www.linkedin.com/in/tae-heun-kay-kim-a21021273/)  : dataInput.py, handleOverflow.py  
 [ChanwookKang](https://github.com/senecaChanwook) : gameboard.py, play1,2.py  
 game.py : contributed by [Caterine-leung](https://www.linkedin.com/in/catherine-leung-4578aa11/?originalSubdomain=ca)  
 
