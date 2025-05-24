@@ -23,9 +23,9 @@ Finalized with new features : Aug 11th 2024
 - **Basic method** : Based on the hash table, the method of putting data on the board (the possibility of data loss x)
 
 ### Updated feature (Aug 11th 2024)  
--**Board size changeable : 3*4 to 5*6 freely changeable game rules accordingly  
--**new Interface : Appears a color-selectable interface  
--**Reduced time complexity : It significantly reduced the computational time for game wins and losses  
+- **Board size changeable** : 3*4 to 5*6 freely changeable game rules accordingly  
+- **new Interface** : Appears a color-selectable interface  
+- **Reduced time complexity** : It significantly reduced the computational time for game wins and losses  
 
 ## Rules  
 1. Select a board (3*4 to 5*6)  
