@@ -49,7 +49,7 @@ Once an overflow occurs, the bot analyzes the number of stones at each location 
 strategically placing gems in areas that minimize further changes. In other words, the bot operates at a very high difficulty level.  
 
 ### structure 
-Queue and deque functionalities effiently handle cells
+Queue and deque functionalities effiently handle cells  
 
 ## Execution  
 
